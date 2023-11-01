@@ -8,3 +8,4 @@ Paragraph here.
 - list item 4 
 - list item 5
 - list item 6
+- list item 7 
